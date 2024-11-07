@@ -9,8 +9,8 @@ export default function Home() {
 
     return (
         <div style={containerStyle}>
-            <h1 style={headingStyle}>Image Conversion Tools</h1>
-            <p style={subheadingStyle}>Explore our tools to easily convert and resize your images.</p>
+            <h1 style={headingStyle}>Convert Tools</h1>
+            <p style={subheadingStyle}>Just try it.</p>
             <div style={gridContainerStyle}>
                 {blocks.map((block, index) => (
                     <Link

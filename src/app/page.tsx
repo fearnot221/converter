@@ -57,11 +57,6 @@ const blocks = [
     description: "Split PDF and use csv to rename.",
     link: "/pdf/split",
   },
-  {
-    title: "LEA 工具",
-    description: "使用 LEA 算法處理數據",
-    link: "/crypto/lea",
-  },
 ];
 
 const containerStyle: CSSProperties = {
